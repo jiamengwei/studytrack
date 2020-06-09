@@ -1,0 +1,8 @@
+com\example\redis\entity\User$Address.class
+com\example\redis\config\HashMapping.class
+com\example\redis\entity\Person.class
+com\example\redis\config\Jackson2Config.class
+com\example\redis\mapping\Jackson2HashMapping.class
+com\example\redis\entity\User.class
+com\example\redis\config\RedisConfig.class
+com\example\redis\ExampleApplication.class
