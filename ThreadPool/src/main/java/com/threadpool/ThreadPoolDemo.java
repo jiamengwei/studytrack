@@ -13,8 +13,6 @@ public class ThreadPoolDemo {
 
     private static final AtomicInteger threadNumber = new AtomicInteger(1);
 
-
-
     public static void main(String[] args) {
         BlockingQueue<Runnable> linkedBlockingQueue = new LinkedBlockingQueue<>(5);
 

@@ -1,0 +1,5 @@
+com\shardingsphere\example\mapper\TOrderMapper.class
+com\shardingsphere\example\service\TOrderServiceImpl.class
+com\shardingsphere\example\service\TOrderService.class
+com\shardingsphere\example\entity\TOrder.class
+com\shardingsphere\example\ShardingsphereExampleApplication.class

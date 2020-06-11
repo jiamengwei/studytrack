@@ -68,6 +68,7 @@ public class CountDownLatchDemo {
                 getDOrders();
                 countDownLatch.countDown();
             });
+
             countDownLatch.await();
             check();
         }
